@@ -11,4 +11,4 @@ What is includes
 I have stored all the data in to the json file and fetch that file using the useEffect and set data into the respective component. 
 
 
-to clone git clone https://github.com/jagrutimetaliya/portfolio-react-tailwind.git
+to clone git clone https://github.com/topdev0401/my-portfolio-react-tailwindcss
